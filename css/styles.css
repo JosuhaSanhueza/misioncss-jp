@@ -82,8 +82,9 @@ header .header-text{
 
 .contenedor-sobre-mi{
     text-align: center;
-    margin: 0px 240px 40px 240px;
+    padding: 0px 100px 0 100px;
     font-weight: 500;
+    overflow: hidden;
 }
 
 .contenedor-mi-pyme{
